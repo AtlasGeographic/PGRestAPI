@@ -38,7 +38,7 @@
   "optionalDependencies": {
     "carto": "0.18.2",
     "ogr2ogr": "1.0.1",
-    "mbtiles": "0.9.0",
+    "@mapbox/mbtiles": "0.9.0",
     "tilelive": "5.12.6"
   },
   "devDependencies": {
@@ -48,7 +48,7 @@
     "chai-things": "0.2.0",
     "express-mock-request": "0.0.2",
     "supertest": "0.13.0",
-    "vector-tile": "0.3.0",
+    "@mapbox/vector-tile": "0.3.0",
     "pbf": "3.0.5"
   },
   "keywords": [
